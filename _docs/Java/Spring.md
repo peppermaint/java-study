@@ -4,12 +4,9 @@ category: Java
 order: 1
 ---
 
-Use ChatApp on most of your Apple devices. Only the latest versions are supported.
+Spring Bean
+===
+자바 객체  
+스프링 컨테이너에 의해서 자바 객체가 만들어 지게 되면 이 객체를 스프링은 스프링 빈이 부른다.  
+스프링 빈과 자바 일반 객체와의 차이점은 없음.
 
-To install ChatApp on your device:
-
-1. Open the App Store
-2. Search for ChatApp
-3. Select **Install**
-
-![](//placehold.it/800x600)
