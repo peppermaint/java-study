@@ -7,20 +7,20 @@ order: 1
 HTTP 란?
 ========
 
-HTML 문서와 리소스들을 가져올 수 있도록 해주는 프로토콜
-클라이언트와 서버 사이에 이루어지는 요청(requests)/응답(responses) 프로토콜
+#HTML 문서와 리소스들을 가져올 수 있도록 해주는 프로토콜
+#클라이언트와 서버 사이에 이루어지는 요청(requests)/응답(responses) 프로토콜
 
 
 HTTPS 란?
 =========
 
-HTTP + s
-여기서 s는 secure socket layer (SSL)
-HTTP는 해커 공격 및 스니핑에 취약하기에 도입
-socket에서 인증하기에 인터넷 연결이 끊어지면 다시 인증
-웹서버에 부하가 있으나 cpu와 메모리가 과거에 비해 좋아짐.
-무료 HTTPS 인증서 보급 가능
-https://tech.ssut.me/https-is-faster-than-http/
+#HTTP + s
+#여기서 s는 secure socket layer (SSL)
+#HTTP는 해커 공격 및 스니핑에 취약하기에 도입
+#socket에서 인증하기에 인터넷 연결이 끊어지면 다시 인증
+#웹서버에 부하가 있으나 cpu와 메모리가 과거에 비해 좋아짐.
+#무료 HTTPS 인증서 보급 가능
+#https://tech.ssut.me/https-is-faster-than-http/
 
 암호화 방식 : 비대칭키 방식(공개 키 암호화)
 대칭키 사용시, 대칭키를 전달하는 과정에서 키가 유출되면 암호화 내용을 복호하 가능..
